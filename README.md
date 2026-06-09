@@ -1,5 +1,5 @@
 # OxideCE-v7.7.7elite
-OxideCE-v7.7.7 Elite — Precision-forged in Rust. Advanced vulnerability discovery, high-performance security assessment, and intelligent threat analysis powered by AI/ML.
+OxideCE-v7.7.7 Elite — Precision-forged in Rust. Advanced vulnerability discovery, high-performance security assessment, and intelligent threat analysis powered by AI/ML
   <img src="https://img.shields.io/badge/status-ELITE%20EDITION-80dca0?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/license-Proprietary-beb0eb?style=for-the-badge&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/plat-Linux%20%7C%20Win-aac3eb?style=for-the-badge&labelColor=1a1a2e" />
