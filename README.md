@@ -1,8 +1,15 @@
 # OXIDE — Community Edition v7.7.7-elite
 
 Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Kali Linux Ready
-
 <div align="center">
+
+```
+   ____       _     __   
+  / __ \_  __(_)___/ /__ 
+ / / / / |/_/ / __  / _ \
+/ /_/ />  </ / /_/ /  __/
+\____/_/|_/_/\__,_/\___/
+```
 
 [![GitHub](https://img.shields.io/badge/GitHub-OxideCE--v7.7.7ELITE-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Website](https://img.shields.io/badge/Website-HyperSecurity%20Labs-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://hypersecurityoffensivelabs-about.is-best.net/)
@@ -239,6 +246,45 @@ cargo test                   # run tests
 ├── oxide-ce-debian/ DEB packaging
 └── arch-pkg/        Arch packaging
 ```
+
+---
+
+---
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-Official_Repository_Integration-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
+
+OXIDE Community Edition targets inclusion in the official Kali Linux repository to become available via:
+
+```bash
+sudo apt update && sudo apt install oxide
+```
+
+### Current Progress
+
+| Step | Status |
+|------|--------|
+| Debian packaging (`oxide-ce-debian/`) | ✅ Complete |
+| Arch packaging (`PKGBUILD`) | ✅ Complete |
+| Kali colour palette integration | ✅ Complete |
+| `pnet` raw socket support (Linux) | ✅ Complete |
+| Community testing & validation | ✅ In progress |
+| Kali repository submission | ⏳ Pending |
+
+### Why Kali?
+
+- Rust-native performance with `tokio` async runtime
+- Complements existing Kali tooling (`sqlmap`, `nmap`, `burpsuite`, `metasploit`)
+- ML-based anomaly detection fills the gap traditional scanners miss
+- Single binary deployment — no Python dependency hell
+- Active recon via raw sockets (`pnet`) for OS fingerprinting
+
+### Support the Effort
+
+[![Star](https://img.shields.io/badge/Star_on_GitHub-Support-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Issues](https://img.shields.io/badge/Report_Bugs-ff6b6b?style=for-the-badge&logo=bugatti&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
+[![Telegram](https://img.shields.io/badge/Join_Community-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/hypersecurity_offsec)
+
+Every star brings OXIDE closer to `apt install oxide`. Report bugs, join the community, and help shape the future of open-source security tooling.
 
 ---
 
