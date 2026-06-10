@@ -321,10 +321,12 @@ Vision:   apt install oxide on Kali Linux
   <img src="https://img.shields.io/badge/⚠%20Legal%20Disclaimer-557C94?style=for-the-badge&labelColor=1a1a2e" alt="Legal Disclaimer"/>
 </p>
 By using OXIDE, you acknowledge:
+
 1. **Authorized use only** — You must have explicit permission before scanning any system.
 2. **Legal compliance** — You are responsible for following all applicable laws.
 3. **No warranty** — This software is provided "as is" with no liability.
 4. **Attribution** — Author name (khaninkali) and HyperSecurityLabs brand must remain intact.
+
 ---
 <p align="center">
   <a href="https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues"><img src="https://img.shields.io/badge/Report%20Issue-64D2FF?style=for-the-badge&logo=github&logoColor=white" alt="Report Issue"/></a>
