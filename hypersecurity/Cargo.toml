@@ -1,0 +1,13 @@
+[package]
+name = "hypersecurity"
+version = "1.0.0"
+edition = "2021"
+authors = ["HyperSecurityOffensiveLabs"]
+description = "Hypersecurity kernel module — memory safety, cache sanitisation, no-leak assurance"
+
+[lib]
+crate-type = ["cdylib"]
+name = "hypersecurity"
+
+[dependencies]
+libc = "0.2"
