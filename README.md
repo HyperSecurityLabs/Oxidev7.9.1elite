@@ -320,7 +320,6 @@ Vision:   apt install oxide on Kali Linux
 <p align="center">
   <img src="https://img.shields.io/badge/⚠%20Legal%20Disclaimer-557C94?style=for-the-badge&labelColor=1a1a2e" alt="Legal Disclaimer"/>
 </p>
-By using OXIDE, you acknowledge:
 
 1. **Authorized use only** — You must have explicit permission before scanning any system.
 2. **Legal compliance** — You are responsible for following all applicable laws.
