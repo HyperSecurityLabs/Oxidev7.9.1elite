@@ -16,6 +16,11 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
  Active development by khaninkali @ HyperSecurity Offensive Labs
  Contributions, bug reports, and community feedback welcome.
 ```
+
+<img width="1440" height="900" alt="Screenshot_2026-06-11_10_00_27" src="https://github.com/user-attachments/assets/673f1bd0-28b7-4e94-ba15-05aa04f3de56" />
+<img width="1440" height="900" alt="Screenshot_2026-06-11_10_01_10" src="https://github.com/user-attachments/assets/578a1988-579e-4465-811a-577ace1e9c93" />
+<img width="1440" height="900" alt="Screenshot_2026-06-11_10_01_31" src="https://github.com/user-attachments/assets/c3e66961-0ddc-4b3c-a746-7721f8376b83" />
+
 <div align="center">
 
 [![Forums](https://img.shields.io/badge/Forums-Community-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
