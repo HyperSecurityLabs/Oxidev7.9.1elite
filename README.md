@@ -29,7 +29,6 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Telegram](https://img.shields.io/badge/Telegram-@hypersecurity__offsec-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/hypersecurity_offsec)
 
 </div>
-</div>
 
 **OXIDE Community Edition — v7.7.7-elite** · Open eXtensible Intelligence & Detection Engine · AI-Powered · Kali Linux Ready
 
