@@ -1,4 +1,4 @@
-# OxideCE-v7.7.7ELITE
+# OxideCE-v7.7.7ELITE.
 
 Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Kali Linux Ready
 ```bash
