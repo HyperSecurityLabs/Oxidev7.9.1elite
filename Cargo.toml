@@ -17,9 +17,10 @@ repository = "https://github.com/hypersecuritylabs/oxide-communityedition"
 [lib]
 name = "oxide"
 path = "lib.rs"
+
 [[bin]]
 name = "oxide"
-path =  "main.rs"
+path = "main.rs"
 
 
 [dependencies]
