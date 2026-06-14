@@ -26,7 +26,6 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 [![Platform](https://img.shields.io/badge/Windows_|_Supported-64AAFF?style=for-the-badge&logo=windows&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Issues](https://img.shields.io/badge/Issues-Report-f6c177?style=for-the-badge&logo=bugatti&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![Releases](https://img.shields.io/badge/Releases-Download-64D2FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
-[![Website](https://img.shields.io/badge/Website-HyperSecurity%20Labs-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Telegram](https://img.shields.io/badge/Telegram-@hypersecurity__offsec-b388ff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/hypersecurity_offsec)
 <br>
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
