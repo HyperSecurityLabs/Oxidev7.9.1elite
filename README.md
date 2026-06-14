@@ -1,7 +1,6 @@
 # OxideCE-v7.7.7ELITE.
 
 Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Kali Linux Ready
-<div align="center">
 
 ```
    ____       _     __   
@@ -10,23 +9,24 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 / /_/ />  </ / /_/ /  __/
 \____/_/|_/_/\__,_/\___/ 
 ```
-
 # OXIDE v7.7.7-elite
-
 **Precision-forged Rust vulnerability scanner**  
 *HypersecurityOffensiveLabs · offensive security toolkit*  
 `0day · ML detection · WAF bypass · headless JS · distributed scanning`
 *Active development by khaninkali @ HyperSecurity Offensive Labs*  
 *Contributions, bug reports, and community feedback welcome.*
-<br>
+
 [![Forums](https://img.shields.io/badge/⎈_Community_Forums-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/⚙_Rust-2021%20Edition-64D2FF?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/⌨_Windows_|_Linux-b388ff?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
 [![Releases](https://img.shields.io/badge/📦_Downloads-64D2FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 [![Website](https://img.shields.io/badge/⎈_Website-00C8B4?style=for-the-badge&logo=google-chrome&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/Kali_Linux-Ready-367bf0?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/)
-<br>
+> ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
+</div>
+
+---
 <div align="left">
 
 [![About](https://img.shields.io/badge/About-OXIDE-557C94?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
