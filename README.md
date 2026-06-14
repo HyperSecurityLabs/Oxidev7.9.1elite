@@ -18,9 +18,7 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
 `0day · ML detection · WAF bypass · headless JS · distributed scanning`
 *Active development by khaninkali @ HyperSecurity Offensive Labs*  
 *Contributions, bug reports, and community feedback welcome.*
-
 <br>
-
 [![Forums](https://img.shields.io/badge/⎈_Community_Forums-00C8B4?style=for-the-badge&logo=discourse&logoColor=000000)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/⚙_Rust-2021%20Edition-64D2FF?style=for-the-badge&logo=rust&logoColor=000000)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/⌨_Windows_|_Linux-b388ff?style=for-the-badge&logo=linux&logoColor=000000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
