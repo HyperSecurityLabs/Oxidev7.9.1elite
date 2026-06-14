@@ -17,7 +17,8 @@ Open eXtensible Intelligence & Detection Engine — AI-Powered · Red Team · Ka
  Contributions, bug reports, and community feedback welcome.
 ```
 
-<img width="1440" height="900" alt="Screenshot_2026-06-11_10_00_27" src="https://github.com/user-attachments/assets/673f1bd0-28b7-4e94-ba15-05aa04f3de56" />
+<img width="1440" height="900" alt="Screenshot_2026-06-11_10_01_10" src="https://github.com/user-attachments/assets/39146e24-3d91-4eb9-ae91-9bcc2a792a89" />
+
 
 <div align="center">
 
