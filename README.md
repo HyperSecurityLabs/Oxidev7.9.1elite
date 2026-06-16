@@ -14,21 +14,16 @@
 *Forged by khaninkali · Designed by LYARA-Koroleva · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
-</div>
-
-<p align="left">
-  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/⚙_Rust_2021-FF4757?style=flat-square&logo=rust&logoColor=000000&labelColor=FF6B35" alt="Rust"></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/⎈_Kali_Linux-367BF0?style=flat-square&logo=kalilinux&logoColor=ffffff&labelColor=557C94" alt="Kali"></a>
-  <a href="https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE"><img src="https://img.shields.io/badge/⌨_Win│Linux-64D2FF?style=flat-square&logo=linux&logoColor=000000&labelColor=557C94" alt="Platform"></a>
-  <a href="https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases"><img src="https://img.shields.io/badge/📦_Downloads-B4A0FF?style=flat-square&logo=github&logoColor=000000&labelColor=AAE6FF" alt="Releases"></a>
-  <a href="https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php"><img src="https://img.shields.io/badge/⎈_Forums-64D2FF?style=flat-square&logo=discourse&logoColor=000000&labelColor=557C94" alt="Forums"></a>
-  <a href="https://hypersecurityoffensivelabs-about.is-best.net/"><img src="https://img.shields.io/badge/⎈_Website-00B478?style=flat-square&logo=google-chrome&logoColor=000000&labelColor=50DCA0" alt="Website"></a>
-  <a href="https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues"><img src="https://img.shields.io/badge/⚠_Authorized-FF4757?style=flat-square&logo=bugatti&logoColor=ffffff&labelColor=FF0000" alt="Warning"></a>
-  <a href="https://github.com/lyara20/About.Me"><img src="https://img.shields.io/badge/👑_LYARA_Koroleva-7D5FFF?style=flat-square&logo=pinboard&logoColor=ffffff&labelColor=B4A0FF" alt="LYARA"></a>
-</p>
-
+[![Forums](https://img.shields.io/badge/⎈_Community-Forums-64D2FF?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=557C94)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
+[![Rust](https://img.shields.io/badge/⚙_Rust-2021_Ed-FF4757?style=for-the-badge&logo=rust&logoColor=000000&labelColor=DEA584)](https://www.rust-lang.org/)
+[![Platform](https://img.shields.io/badge/⌨_Win│Linux-Support-367BF0?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=AACDFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
+[![Releases](https://img.shields.io/badge/⬇_Downloads-v7.7.7-B4A0FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=50DCA0)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
+[![Website](https://img.shields.io/badge/⎈_Website-Live-AAE6FF?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=00B478)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Kali](https://img.shields.io/badge/⎈_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=D0C0FF)](https://www.kali.org/)
+[![Warning](https://img.shields.io/badge/⚠_Authorized-Use_Only-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=FF0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
+[![LYARA-Koroleva](https://img.shields.io/badge/♛_LYARA‑Koroleva-Designer-AACDFF?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=7D5FFF)](https://github.com/lyara20/About.Me)
 > ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
-
+> 
 ---
 
 <div align="left">
