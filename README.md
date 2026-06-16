@@ -14,6 +14,7 @@
 *Forged by khaninkali · Designed by LYARA-Koroleva · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
+[![Kali](https://img.shields.io/badge/⎈_Kali_Linux-Ready-50DCA0?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1E2A38)](https://www.kali.org/)
 [![Forums](https://img.shields.io/badge/⎈_Community-Forums-64D2FF?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=557C94)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/⚙_Rust-2021_Ed-FF4757?style=for-the-badge&logo=rust&logoColor=000000&labelColor=DEA584)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/⌨_Win│Linux-Support-367BF0?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=AACDFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
