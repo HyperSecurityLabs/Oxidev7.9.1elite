@@ -70,7 +70,7 @@ git clone https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE.git
 cd OxideCE-v7.7.7ELITE && cargo build --release
 sudo cp target/release/oxide /usr/local/bin/
 
-oxide --version   # → oxide 7.7.7-elite
+oxide8.5.0 --version   # → oxide 7.7.7-elite
 ```
 
 </div>
