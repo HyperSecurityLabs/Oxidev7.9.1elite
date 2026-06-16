@@ -343,7 +343,7 @@ Vision:   apt install oxide on Kali Linux
 <div align="center">
 
 [![Star](https://img.shields.io/badge/★_Star_on_GitHub-Support-58A6FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Website](https://img.shields.io/badge/▲_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
+[![Website](https://img.shields.io/badge/_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Telegram](https://img.shields.io/badge/☏_Telegram-Community-64D2FF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=1B2A38)](https://t.me/hypersecurity_offsec)
 [![Forums](https://img.shields.io/badge/⋄_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 
