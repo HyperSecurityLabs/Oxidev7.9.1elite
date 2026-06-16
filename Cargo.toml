@@ -17,11 +17,11 @@ homepage = "https://hypersecurityoffensivelabs-about.is-best.net/"
 
 [lib]
 name = "oxide"
-path = "src/lib.rs"
+path = "lib.rs"
 
 [[bin]]
 name = "oxide"
-path = "src/main.rs"
+path = "main.rs"
 
 
 [dependencies]
