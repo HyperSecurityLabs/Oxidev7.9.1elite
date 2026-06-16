@@ -98,20 +98,20 @@ oxide -u targets.txt --threads 50                                # From file
 
 | Module | Detection |
 |--------|-----------|
-| **SQLi** | Error, boolean, time, UNION, stacked queries |
-| **Blind SQLi** | Blind / time-based inference |
-| **XSS** | Reflected, stored, DOM |
-| **LFI** | File read confirmation |
-| **Path Traversal** | Directory traversal |
-| **CMD Injection** | Linux + Windows commands |
-| **CORS** | Misconfiguration audit |
-| **TLS** | Certificates, protocols, ciphers |
+| **SQLi** | Error, boolean, time, UNION, stacked queries |***MORE RESILIANT***
+| **Blind SQLi** | Blind / time-based inference |***MORE RESILIANT***
+| **XSS** | Reflected, stored, DOM |***MORE RESILIANT***
+| **LFI** | File read confirmation |***MORE RESILIANT***
+| **Path Traversal** | Directory traversal |***MORE RESILIANT***
+| **CMD Injection** | Linux + Windows commands |***MORE RESILIANT***
+| **CORS** | Misconfiguration audit |***REPEARIED LOADING***
+| **TLS** | Certificates, protocols, ciphers |***STRONG***
 | **Common App** | Nikto-style path probing |
-| **Default Creds** | Known admin credentials |
-| **DB Fingerprint** | MySQL, PG, MSSQL, Oracle, SQLite |
-| **HPP** | HTTP Parameter Pollution — duplicate-param behavioural analysis |
-| **Cloudflare** | WAF detection + bypass |
-| **Content Filter** | Regex for keys, tokens, secrets |
+| **Default Creds** | Known admin credentials |***SAME**
+| **DB Fingerprint** | MySQL, PG, MSSQL, Oracle, SQLite |***HYBRID-PENETRATION***
+| **HPP** | HTTP Parameter Pollution — duplicate-param behavioural analysis |***NEW MODULE***
+| **Cloudflare** | WAF detection + bypass |***NEW MODULE***
+| **Content Filter** | Regex for keys, tokens, secrets |***IMPROVED**
 
 </div>
 
@@ -188,19 +188,6 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 | `--max-urls` | 100 | Max URLs (max 10000) |
 | `--exploitation-level` | 50 | Aggression (1–100) |
 | `--payload-limit` | 50 | Max payloads |
-| `--proxy` | — | HTTP proxy |
-| `--cookie` | — | Session cookie |
-| `--header` | — | Custom headers |
-| `--user-agent` | — | Custom UA |
-| `--output` | — | Report path |
-| `--format` | json | json/html/csv/xml |
-| `--insecure` | false | Skip SSL verify |
-| `--follow-redirects` | false | Follow redirects |
-| `--max-redirects` | 10 | Redirect limit |
-| `--silent-mode` | false | Quiet output |
-| `--verbose` | false | Detailed output |
-| `--list-modules` | — | List modules & exit |
-| `--exclude` | — | Skip modules |
 
 Config: `oxide-config.toml` for persistent settings.
 
@@ -253,15 +240,14 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Fuzzing: replaced sequential URL loop with concurrent chunks(3) + join_all — ~3x speedup
 - Spinner display: 20-block `█░` → 10-block `▰▱` module-index-based bar
 - Pipeline display: space-separated → `──▶ ` arrow on active module with `→` separators
-- Duration timer excludes setup overhead
+- Duration timer excludes setup overhead More Capabilty with Proper Timing 
 - `--list-modules` no longer requires `--url`
-- Author line: HyperSecurityLabs
+
 
 **Fixed:**
 - **"Two shows vulns" bug** — findings deduplication via BlazingShadow™ Dedup Engine (dedup by URL + severity + title). Phase 4 scanners no longer overlap with fuzzing results.
 - **SSTI removed** — `("SSTI", 6)` removed from `fuzz_modules` and `test_types`; `contains_ssti` function and SSTI match arm deleted; SSTI payload generation removed from `fuzz_url`.
-- **Concurrency indentation** — fixed mismatched brace indentation in `fuzz_url` match block
-- Ctrl+C responsiveness — polls shutdown every 200ms
+- **Concurrency indentation** — fixed mismatched brace indentation in `fuzz_url` match block ***By LYARA AND OTHER TEAMS***
 - Vercel false positive — `server-timing` removed from CF detection
 - Duration enforcement — per-request timeouts + `should_continue()` checks
 - Panic-safe string slicing across `filter.rs`, `cookies.rs`, `session.rs`, `tls_scanner.rs`
