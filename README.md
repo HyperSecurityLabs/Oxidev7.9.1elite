@@ -16,12 +16,12 @@
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 
 [![Forums](https://img.shields.io/badge/⎈_Community-Forums-00B478?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=50DCA0)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
-[![Rust](https://img.shields.io/badge/⚙_Rust-2021_Ed-FF4757?style=for-the-badge&logo=rust&logoColor=000000&labelColor=FF6B35)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/_Rust-2021_Ed-FF4757?style=for-the-badge&logo=rust&logoColor=000000&labelColor=FF6B35)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/⌨_Win│Linux-Support-64D2FF?style=for-the-badge&logo=linux&logoColor=000000&labelColor=557C94)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE)
-[![Releases](https://img.shields.io/badge/📦_Downloads-v7.7.7-B4A0FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=AAE6FF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
+[![Releases](https://img.shields.io/badge/_Downloads-v7.7.7-B4A0FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=AAE6FF)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/releases)
 [![Website](https://img.shields.io/badge/⎈_Website-Live-00B478?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=50DCA0)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/⎈_Kali_Linux-Ready-367BF0?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=557C94)](https://www.kali.org/)
-[![Warning](https://img.shields.io/badge/⚠_Authorized-Use_Only-FF4757?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=FF0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
+[![Warning](https://img.shields.io/badge/_Authorized-Use_Only-FF4757?style=for-the-badge&logo=bugatti&logoColor=ffffff&labelColor=FF0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.7.7ELITE/issues)
 [![LYARA-Koroleva](https://img.shields.io/badge/👑_LYARA‑Koroleva-Designer-7D5FFF?style=for-the-badge&logo=pinboard&logoColor=ffffff&labelColor=B4A0FF)](https://github.com/lyara)
 > ⭐ Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
