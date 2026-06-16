@@ -241,7 +241,7 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Spinner display: 20-block `█░` → 10-block `▰▱` module-index-based bar
 - Pipeline display: space-separated → `──▶ ` arrow on active module with `→` separators
 - Duration timer excludes setup overhead More Capabilty with Proper Timing 
-- `--list-modules` no longer requires `--url`
+- `--list-modules` added To show in Available Capability Modules
 
 
 **Fixed:**
