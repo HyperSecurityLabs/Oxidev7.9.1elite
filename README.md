@@ -169,12 +169,12 @@ Auto-exploit: SQLi · XSS · LFI · CMDi · SSTI
 ---
 
 <div align="left">
-  
-<img width="1440" height="900" alt="Screenshot_2026-06-21_21_44_28" src="https://github.com/user-attachments/assets/2ce90eed-a578-4dbe-bac3-19c9f95eae98" />
 
 [![GUI Frontend](https://img.shields.io/badge/🖥_GUI_Frontend-Desktop_App-ff1744?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE)
 
 A native desktop GUI built with **WRY** (WebView2/WebKit) and **TAO** (windowing). Provides a visual interface for configuring and launching OXIDE scans without the terminal.
+  
+<img width="1440" height="900" alt="Screenshot_2026-06-21_21_44_28" src="https://github.com/user-attachments/assets/2ce90eed-a578-4dbe-bac3-19c9f95eae98" />
 
 ### Features
 - **Custom frameless window** — drag, minimize, maximize, close with styled title bar
