@@ -13,7 +13,7 @@
 [![Downloads](https://img.shields.io/badge/⬇_Downloads-v7.9.1-333333?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE/releases)
 [![Website](https://img.shields.io/badge/▲_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/★_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
-[![Warning](https://img.shields.io/badge/‼_Warning-Authorized-FF6B35?style=for-the-badge&logo=bugatti&logoColor=000000&labelColor=8B0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE/issues)
+[![Warning](https://img.shields.io/badge/Authorized_Testing_Only-ff1744?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE)
 [![Lyara](https://img.shields.io/badge/♛_Lyara-Designer-CE93D8?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=4A0072)](https://github.com/lyara20/About.Me)
 
 </div>
