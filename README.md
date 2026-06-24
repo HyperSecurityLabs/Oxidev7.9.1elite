@@ -1,22 +1,22 @@
 
-# OXIDE v7.9.1-elite
+# OXIDE v8.5.0-community-edition
 **Precision-forged Rust vulnerability scanner**  
 *HyperSecurity Offensive Labs *
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
 *This is simply given for Community peoples For learning the codes*
 
-<img width="1440" height="900" alt="Screenshot_2026-06-21_21_44_36" src="https://github.com/user-attachments/assets/89653867-22c4-40e0-a1f7-4b9aa0c99c3b" />
+
 
 <div align="center">
   
 [![Forums](https://img.shields.io/badge/◆_Forums-Community-00AE86?style=for-the-badge&logo=discourse&logoColor=000000&labelColor=004D40)](https://hypersecurityoffensivelabs-about.is-best.net/forums/index.php)
 [![Rust](https://img.shields.io/badge/●_Rust-2021-FF8A65?style=for-the-badge&logo=rust&logoColor=000000&labelColor=B71C1C)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/■_Platform-Win│Linux-4DB6AC?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=1A1A2E)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE)
-[![Downloads](https://img.shields.io/badge/⬇_Downloads-v7.9.1-333333?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE/releases)
+[![Downloads](https://img.shields.io/badge/⬇_Downloads-v8.5.0-333333?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE/releases)
 [![Website](https://img.shields.io/badge/▲_Website-HyperSec-00E676?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=005B47)](https://hypersecurityoffensivelabs-about.is-best.net/)
 [![Kali](https://img.shields.io/badge/★_Kali_Linux-Ready-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff&labelColor=1B2A38)](https://www.kali.org/)
-[![Warning](https://img.shields.io/badge/Authorized-Testing-ff1744?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/OxideCE-v7.9.1ELITE)
+[![Warning](https://img.shields.io/badge/Authorized-Testing-ff1744?style=for-the-badge&logo=electron&logoColor=ffffff&labelColor=4A0000)](https://github.com/HyperSecurityLabs/oxide-v8.5.0-community-edition)
 [![Lyara](https://img.shields.io/badge/♛_Lyara-Designer-CE93D8?style=for-the-badge&logo=pinboard&logoColor=000000&labelColor=4A0072)](https://github.com/lyara20/About.Me)
 
 </div>
