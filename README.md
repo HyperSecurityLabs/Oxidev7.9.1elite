@@ -4,6 +4,7 @@
 *HyperSecurity Offensive Labs *
 *Forged by HyperSecurityLabs · Unleash the hunt.*
 *⚔️ Zero-Day · ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster.*
+*This is simply given for Community peoples For learning the codes*
 
 <img width="1440" height="900" alt="Screenshot_2026-06-21_21_44_36" src="https://github.com/user-attachments/assets/89653867-22c4-40e0-a1f7-4b9aa0c99c3b" />
 
