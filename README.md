@@ -28,12 +28,14 @@ OXIDE is a weapon-grade security tool. In the wrong hands, its capabilities caus
 - DO NOT extract or reimplement its detection logic in malicious software.
 - DO use for authorized penetration testing, CTFs, labs, and security research.
 > Violators assume full legal liability. HSOL bears no responsibility for misuse.
+ 
+---
 
 [![Final Release](https://img.shields.io/badge/FINAL-RELEASE-FFB11B?style=for-the-badge&labelColor=1A1A1A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
 > OXIDE has reached its final release as a standard offensive security scanner. With async concurrent architecture, WAF12 evasion suite,AI/ML zero-day engine, Bayesian confidence scoring, Levenshtein precision analysis, and 14 detection modules — it now stands complete.
 
->  Final Recommendation, Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
+> Final Recommendation, Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
 [![Thank You](https://img.shields.io/badge/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-Thank_You-8B81C3?style=for-the-badge&labelColor=1A1A1A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
@@ -46,7 +48,6 @@ Modular security toolkit combining traditional vulnerability scanning with ML-ba
 [![Rust](https://img.shields.io/badge/_Rust_2021-E83929?style=for-the-badge&logo=rust&logoColor=000&labelColor=FFE8E0)](https://www.rust-lang.org/)
 
 ---
-
 
 [![Installation](https://img.shields.io/badge/_Installation-Quick_Start-2EA9DF?style=for-the-badge&logo=terminal&logoColor=000&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
