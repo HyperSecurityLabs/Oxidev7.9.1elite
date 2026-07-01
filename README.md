@@ -167,11 +167,8 @@ Auto-saved to `reports/oxide_<timestamp>.*`
 - Replaced entire ELITE / Rosé Pine / Osaka-Jade / Lavender colour system with pure Japanese washoku palette across 13 scanner modules, CLI display, advanced modules, and zero-day engine
 - Banner palette switched to 翡翠→若葉→露草 gradient (was 藍→露草→藤)
 - `--version` updated to `v8.6.9-community-edition`
-- All hardcoded ANSI 8-bit color codes replaced with Japanese 24-bit truecolor equivalents
-- Crawl output colours: 朱 `[*]`, 山吹 spinner, 翡翠 status, 山吹 size, 銀 metadata, 露草 URL
-- GUI window title, HTML title, footer updated to v8.6.9
-- Encrypted test database rebuilt with v8.6.9 key seed
-- Documentation badge colours upgraded to coordinated 和色 palette with light matching labels
+- Added Socket2 
+
 
 **Fixed:**
 - `--help`/`-h` now suppresses banner + quote (only clap usage shown)
