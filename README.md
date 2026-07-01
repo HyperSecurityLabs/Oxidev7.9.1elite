@@ -33,7 +33,7 @@ OXIDE is a weapon-grade security tool. In the wrong hands, its capabilities caus
 
 > OXIDE has reached its final release as a standard offensive security scanner. With async concurrent architecture, WAF12 evasion suite,AI/ML zero-day engine, Bayesian confidence scoring, Levenshtein precision analysis, and 14 detection modules — it now stands complete.
 
-> Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
+>  Final Recommendation, Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
 [![Thank You](https://img.shields.io/badge/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86-Thank_You-8B81C3?style=for-the-badge&labelColor=1A1A1A)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 
