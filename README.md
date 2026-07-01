@@ -9,9 +9,7 @@ Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless
 [![Rust](https://img.shields.io/badge/_Rust-2021-E83929?style=for-the-badge&logo=rust&logoColor=000&labelColor=FFE8E0)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/_Platform-WinLinux-2EA9DF?style=for-the-badge&logo=linux&logoColor=000&labelColor=E8F4FD)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9)
 [![Downloads](https://img.shields.io/badge/_Downloads-v8.6.9-91989F?style=for-the-badge&logo=github&logoColor=000&labelColor=F0F0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/releases)
-[![Website](https://img.shields.io/badge/_Website-HyperSec-38B48B?style=for-the-badge&logo=google-chrome&logoColor=000&labelColor=E8F5E8)](https://hypersecurityoffseclabs.great-site.net/)
 [![Kali](https://img.shields.io/badge/_Kali_Linux-Ready-165E83?style=for-the-badge&logo=kalilinux&logoColor=000&labelColor=E8F0F8)](https://www.kali.org/)
-[![Levershin](https://img.shields.io/badge/_Levershin-FP_Reduction-884898?style=for-the-badge&logo=trustpilot&logoColor=000&labelColor=F0E8F2)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/issues)
 [![Warning](https://img.shields.io/badge/‼_Warning-Authorized-D7003A?style=for-the-badge&logo=bugatti&logoColor=000&labelColor=FFF0F0)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/issues)
 [![Lyara](https://img.shields.io/badge/_Lyara-Designer-8B81C3?style=for-the-badge&logo=pinboard&logoColor=000&labelColor=F5F0FA)](https://github.com/lyara20/About.Me)
 
@@ -20,22 +18,9 @@ Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless
 > Every star brings OXIDE closer to `sudo apt install oxide`. Built for Kali, tested on Kali — destined for the official Kali Linux repositories.
 
 ---
-
-##  Levershin — False Positives Reduction Philosophy
-
-> *"Not every alert is a threat. Levershin is the filter between noise and action."*
+[![Levershin](https://img.shields.io/badge/_Levershin-FP_Reduction-884898?style=for-the-badge&logo=trustpilot&logoColor=000&labelColor=F0E8F2)](https://github.com/HyperSecurityLabs/oxide-communityedition-v8.6.9/issues)
 
 OXIDE's **Levershin engine** is a multi-stage false positive reduction system that validates every detection before it reaches the report. Instead of flooding you with raw alerts, Levershin cross-references each finding against response behavior, timing patterns, and confirmation probes — silently discarding phantom positives while elevating verified vulnerabilities.
-
-| Stage | What It Does |
-|-------|-------------|
-| **Behavioral Filter** | Compares response patterns against known attack signatures |
-| **Timing Confirmation** | Validates blind injections via response delay analysis |
-| **Re-probe Engine** | Sends secondary confirmation payloads to verify reflection |
-| **Noise Threshold** | Suppresses identical alerts from repeated crawl paths |
-| **Confidence Scorer** | Ranks findings (confirmed > probable > suspicious) |
-
-> **The philosophy:** A scanner that reports everything reports nothing. Levershin ensures every line in your report is a vulnerability worth your time.
 
 ---
 
