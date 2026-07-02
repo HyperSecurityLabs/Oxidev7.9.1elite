@@ -1,4 +1,5 @@
-# oxidescanner-v8.6.9-communityedition
+
+# oxide-communityedition-v8.6.9
 **Precision-forged Rust vulnerability scanner**  
 HyperSecurity Offensive Labs   
 Levershin FP Reduction · Zero-Day ML Anomaly Engine · WAF Massacre · Headless DOM · Distributed Cluster · 和色 Palette
